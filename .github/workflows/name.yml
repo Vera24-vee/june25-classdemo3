@@ -1,7 +1,7 @@
 name: Verah
 
 on:
-  pull_request:
+  pull_request, push:
 
 jobs:
   test:
